@@ -1,0 +1,61 @@
+.tis{
+  width: 40rpx;
+  margin-top: 25rpx;
+}
+.notice{
+  width: 80%;
+  margin: 20rpx auto;
+  padding: 0 5%;
+  background-color: white;
+  border-radius: 50rpx;
+}
+.noticeText{
+  margin-left: 3%;
+  font-size: 24rpx;
+  color: #929292;
+}
+.block{
+  width: 90%;
+  margin: 0 auto;
+  border-radius: 30rpx;
+  box-shadow: 3px 3px 6px 0px #cecece;
+  /* min-height: 100rpx; */
+  background-color: white;
+}
+.blockTop{
+  /* background-image: url('https://jbrother.loveu.life/uploads/20230912/82736387e6fd05624a4c229b27e80944.png'); */
+}
+.blockP {
+  display: flex; /* 使用 Flexbox 布局 */
+  align-items: center; /* 垂直居中 */
+  justify-content: center;
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 24rpx;
+  padding-right: 2.5%;
+  margin-top: 35rpx;
+}
+.blockIcon {
+  width: 36rpx;
+  margin-right: 4rpx;
+}
+.blockBottom{
+  background: linear-gradient(to right, #18C0AB, #52FFEA);
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.blockBottomChild{
+  width: 50%;
+  float: left;
+  text-align: center;
+  font-size: 24rpx;
+  color: white;
+}
+.blockBottomChild image{
+  margin: 20rpx auto 0 auto;
+  width: 40rpx;
+}
+.blockBottomChildText{
+  height: 50rpx;
+  line-height: 40rpx;
+}

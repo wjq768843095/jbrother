@@ -1,0 +1,68 @@
+<view class="bg">
+  <image src="../../image/banner.jpg" style="width: 100%;" mode="widthFix"/>
+
+  <view>
+    <view>
+      <view class="notice">
+        <view class="" style="width: 7%;float: left;">
+          <image class="tis" src="../../image/tis.png" mode="widthFix" />
+        </view>
+        <view class="height90 noticeText line-limit-length" style="width:90%;float: left;">
+          <text>系统消息文本滚动文字系统消息文本滚动文字系统消息文本滚动文……
+</text>
+        </view>
+        <view class="clear"></view>
+      </view>
+      <view class="block">
+        <view class="blockTop relative">
+          <image src="../../image/image1.png" mode="widthFix" style="width: 100%;"/>
+          <view class="absolute" style="top: 0;width: 100%;">
+              <view class="blockP" style="text-align: center;width: 100%;">
+                <image class="blockIcon" src="../../image/problem.png" mode="widthFix" style="width: 50rpx;" />
+                <text class="white font32">做饭阿姨</text>
+              </view>
+              <view class="block2 white font24 textcenter">
+              反馈
+              </view>
+          </view>
+        </view>
+        <view class="blockBottom">
+          <view class="blockBottomChild">
+            <image src="../../image/unlike.png" mode="widthFix" />
+            <view class="blockBottomChildText">还有问题需要改进</view>
+          </view>
+          <view class="blockBottomChild">
+            <image src="../../image/like.png" mode="widthFix" />
+            <view class="blockBottomChildText">做的很好给予鼓励</view>
+          </view>
+          <view class="clear"></view>
+        </view>
+      </view>
+      <view class="block" style="margin-top: 20rpx;">
+        <view class="blockTop relative">
+          <image src="../../image/image1.png" mode="widthFix" style="width: 100%;"/>
+          <view class="absolute" style="top: 0;width: 100%;">
+              <view class="blockP" style="text-align: center;width: 100%;">
+                <image class="blockIcon" src="../../image/problem.png" mode="widthFix" style="width: 50rpx;" />
+                <text class="white font32">卫生阿姨</text>
+              </view>
+              <view class="block2 white font24 textcenter">
+              反馈
+              </view>
+          </view>
+        </view>
+        <view class="blockBottom">
+          <view class="blockBottomChild">
+            <image src="../../image/unlike.png" mode="widthFix" />
+            <view class="blockBottomChildText">还有问题需要改进</view>
+          </view>
+          <view class="blockBottomChild">
+            <image src="../../image/like.png" mode="widthFix" />
+            <view class="blockBottomChildText">做的很好给予鼓励</view>
+          </view>
+          <view class="clear"></view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

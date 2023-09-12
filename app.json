@@ -1,0 +1,38 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/train/train",
+    "pages/my/my"
+  ],
+  "tabBar": {
+    "color": "#C7C7C7",
+    "selectedColor": "#44D3F0",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "/image/icon1.png",
+        "iconPath": "/image/icon2.png",
+        "pagePath": "pages/index/index",
+        "text": "反馈"
+      },{
+        "selectedIconPath": "/image/icon3.png",
+        "iconPath": "/image/icon4.png",
+        "pagePath": "pages/train/train",
+        "text": "培训进度"
+      },{
+        "selectedIconPath": "/image/icon5.png",
+        "iconPath": "/image/icon6.png",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "蒋氏兄弟",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
